@@ -13,25 +13,6 @@ This project provides a Dockerized ETL pipeline that migrates data from an AWS R
 - Environment-based configuration
 - Logging to both console and file
 
----
-
-## 📁 Project Structure
-
-.
-└── rds-migration/
-    ├── keys/
-    │   └── example.pem
-    ├── logs/
-    ├── .env
-    ├── .env.example
-    ├── docker-compose.yml
-    ├── Dockerfile
-    ├── migrate.py
-    ├── requirements.txt
-    └── setup.sh
-
-
----
 
 ## ⚙️ Prerequisites
 
